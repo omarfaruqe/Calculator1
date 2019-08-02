@@ -3,7 +3,7 @@ public class Calculator{
 
 	}
 
-	int addition(int x, int y){
+	double addition(double x, int double){
 		return x + y;
 	}
 }
