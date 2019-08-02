@@ -8,4 +8,8 @@ public class Calculator{
 	double addition(double x, int double){
 		return x + y;
 	}
+
+	int subtraction(int x, int y){
+		return x - y;
+	}
 }
